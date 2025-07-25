@@ -16,5 +16,15 @@ namespace AntiScan
         {
             InitializeComponent();
         }
+
+        private void HexShield_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
