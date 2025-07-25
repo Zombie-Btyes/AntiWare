@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\AntiWare\\AntiScan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51C5B032-D50C-4E69-8723-9EE7E2E2A86D}|AntiScan.csproj|c:\\antiware\\antiscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C5B032-D50C-4E69-8723-9EE7E2E2A86D}|AntiScan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05A48BE-0E05-4822-9D2B-9B4C68665C7D}|AntiScan.csproj|c:\\antiware\\antiscan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A05A48BE-0E05-4822-9D2B-9B4C68665C7D}|AntiScan.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\AntiWare\\AntiScan\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\AntiWare\\AntiScan\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\AntiWare\\AntiScan\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\AntiWare\\AntiScan\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:06:47.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:10:33.377Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
